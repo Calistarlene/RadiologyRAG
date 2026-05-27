@@ -1,0 +1,20 @@
+# Virtual Environment & Cache
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Dataset & Knowledge Base
+data/
+*.csv
+*.rrf
+*.json
+
+# Local Database
+chroma_db/
+*.db
+
+# Model Weights & Environment Variables
+.env
+*.bin
+*.pt
