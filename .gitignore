@@ -18,3 +18,15 @@ chroma_db/
 .env
 *.bin
 *.pt
+
+# Results, private data package, local tools and documents
+results/
+handoff/
+*.jsonl
+*.parquet
+*.zip
+*.pdf
+*.exe
+.kiro/
+.trunk/
+.ipynb_checkpoints/
